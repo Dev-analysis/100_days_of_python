@@ -22,6 +22,6 @@ This project is inspired by the Indian tech YouTuber, Code_with_harry. His dedic
 
 ## Contact
 Feel free to reach out to me if you have any questions, suggestions, or just want to connect!
-Linkedin: Dev Thapliyal[https://www.linkedin.com/in/dev-prakash-thapliyal-659ba11a9/]
+###Linkedin:[https://www.linkedin.com/in/dev-prakash-thapliyal-659ba11a9/]
 
 Thank you for joining me on this exciting journey of learning and growth!🐍💻
